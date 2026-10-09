@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+  <channel>
+    <title>DockShelf</title>
+    <link>https://github.com/maxxerzy/dockshelf-releases</link>
+    <description>DockShelf updates</description>
+    <language>en</language>
+    <item>
+      <title>DockShelf 0.2.0</title>
+      <pubDate>Fri, 09 Oct 2026 20:00:27 +0200</pubDate>
+      <sparkle:version>2</sparkle:version>
+      <sparkle:shortVersionString>0.2.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[
+<h3>DockShelf 0.2.0</h3>
+<ul>
+<li>DockShelf now updates itself: a blue dot on the menu-bar icon means a new version is ready — install it from the menu with one click.</li>
+<li>Right-click a shelf item for a fan of actions with AirDrop on top; &quot;More…&quot; still opens the full menu (Settings switches back to the classic menu).</li>
+<li>Drop files onto the AirDrop half of the left shelf to send them right away, or press ⌃⌥⌘A to AirDrop your newest screenshot.</li>
+<li>Keyboard mode (⌃⌥⌘J): arrows to move, A AirDrop, C copy, Space Quick Look, ? for all keys.</li>
+<li>The left shelf shows its Set name; click it for Sets, iPhone import and keyboard mode.</li>
+</ul>
+      ]]></description>
+      <enclosure url="https://github.com/maxxerzy/dockshelf-releases/releases/download/v0.2.0/DockShelf-0.2.0.dmg" sparkle:edSignature="kSL2rhdYA0Y3HJ6fsgLMQRByYv7c36sBdfjXqGjvMhXBcZfHHvUbBLApXfg4NYyqKCRLIxZdGLYP4ehIaNaBBg==" length="3229559" type="application/octet-stream"/>
+    </item>
+  </channel>
+</rss>
