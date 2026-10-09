@@ -6,6 +6,30 @@
     <description>DockShelf updates</description>
     <language>en</language>
     <item>
+      <title>DockShelf 0.3.0</title>
+      <pubDate>Fri, 09 Oct 2026 22:01:39 +0200</pubDate>
+      <sparkle:version>5</sparkle:version>
+      <sparkle:shortVersionString>0.3.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[
+<h3>DockShelf 0.3.0</h3>
+<ul>
+<li>Terms of use and privacy notice (German &amp; English): shown when you open the disk image or run the installer, and in Settings › Privacy &amp; Terms.</li>
+<li>New welcome window on first launch, explaining DockShelf and the Accessibility permission. DockShelf only reads the Dock&#x27;s position and size and whether the front window is in full screen — it never changes a setting.</li>
+<li>Privacy: the clipboard history skips passwords and other content that password managers mark as confidential. Shortcuts no longer need Accessibility, and DockShelf no longer sees any keystrokes except its own ⌃⌥⌘ shortcuts.</li>
+<li>Text recognition only reads images (not PDFs or other documents), starts when you hover an item, and can be turned off in Settings. Searching screenshots is much faster.</li>
+<li>New Settings › Updates: turn automatic update checks and installs on or off.</li>
+<li>Much lighter in the background: the Dock is only watched closely while it auto-hides; idle wakeups and memory use are down considerably.</li>
+<li>Keyboard mode and the fan keep the shelves up when the Dock auto-hides, and keyboard mode no longer starts on shelves you can&#x27;t see.</li>
+<li>The shelves&#x27; tooltip and fan disappear together with the shelves (e.g. during Privacy Pause).</li>
+<li>Copying, converting, compressing and zipping large files no longer freezes the shelves.</li>
+<li>Safer shelf data: an unreadable shelf file no longer leads to stored copies being deleted; leftover copies go to the Trash instead of being deleted.</li>
+<li>Fixes for full-screen apps on a second display, network drives, marquee selection, ⌘Z while renaming, Shortcuts file input, long tooltips, the menu-bar icon in dark mode, and folder changes in Screenshots/Downloads.</li>
+</ul>
+      ]]></description>
+      <enclosure url="https://github.com/maxxerzy/dockshelf-releases/releases/download/v0.3.0/DockShelf-0.3.0.dmg" sparkle:edSignature="6iyW6tiUlO2u56Q26awdBwYeKSOCYrpIxerNxQKdDMo7jpOy/5cErYGNEgQV6OxpAYvgyJiTVnEVl8ScJXJVAw==" length="9723350" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>DockShelf 0.2.1</title>
       <pubDate>Fri, 09 Oct 2026 20:26:28 +0200</pubDate>
       <sparkle:version>3</sparkle:version>
