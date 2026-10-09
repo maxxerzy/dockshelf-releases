@@ -6,6 +6,21 @@
     <description>DockShelf updates</description>
     <language>en</language>
     <item>
+      <title>DockShelf 0.3.1</title>
+      <pubDate>Sat, 10 Oct 2026 00:15:22 +0200</pubDate>
+      <sparkle:version>6</sparkle:version>
+      <sparkle:shortVersionString>0.3.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[
+<h3>DockShelf 0.3.1</h3>
+<ul>
+<li>Dock on the left or right: both shelves now become columns below and above the Dock, with everything working there — scrolling, drag and drop (incl. the AirDrop zone), selecting, and ↑/↓ in keyboard mode.</li>
+<li>With a side Dock, tooltips, the fan and the keyboard-mode hints open toward the free side of the screen instead of over the Dock.</li>
+</ul>
+      ]]></description>
+      <enclosure url="https://github.com/maxxerzy/dockshelf-releases/releases/download/v0.3.1/DockShelf-0.3.1.dmg" sparkle:edSignature="ec9Vp4zh2Sm4O2u0P0cbTiVzuyixZ6FJPMBEHSb8VMndHD3k7vS57qFPTT0j+30TvCZi6h4RNMDgfJWrpPRsAw==" length="9849471" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>DockShelf 0.3.0</title>
       <pubDate>Fri, 09 Oct 2026 22:01:39 +0200</pubDate>
       <sparkle:version>5</sparkle:version>
