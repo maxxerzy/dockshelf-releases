@@ -1,3 +1,5 @@
+<p align="center"><img src="icon.png" width="128" alt="DockShelf icon"></p>
+
 # DockShelf
 
 Shelves for files and screenshots right next to the macOS Dock, in Liquid Glass that matches it.
