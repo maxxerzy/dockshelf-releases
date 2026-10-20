@@ -6,6 +6,24 @@
     <description>DockShelf updates</description>
     <language>en</language>
     <item>
+      <title>DockShelf 0.4.0</title>
+      <pubDate>Tue, 20 Oct 2026 12:29:59 +0200</pubDate>
+      <sparkle:version>7</sparkle:version>
+      <sparkle:shortVersionString>0.4.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[
+<h3>DockShelf 0.4.0</h3>
+<ul>
+<li>Choose what each shelf shows: in Settings › Shelves, pick for the left and the right shelf the file shelf, Screenshots &amp; Downloads, Screenshots, Downloads, the Desktop, a folder of your choice, or the clipboard history. Picking what the other side shows swaps the two.</li>
+<li>Desktop and folder shelves show everything in them (up to the 100 newest, folders and apps included); Screenshots and Downloads keep showing the newest files of the last two weeks.</li>
+<li>Shelf Sets are switched off for now — the file shelf is simply &quot;Shelf&quot; again. Nothing you stored is deleted.</li>
+<li>The shelves now match the Dock more closely: the bottom edge lines up on 1080p displays, and the corners round like the Dock&#x27;s at every Dock size.</li>
+<li>Updated privacy notice to cover the new folder choices.</li>
+</ul>
+      ]]></description>
+      <enclosure url="https://github.com/maxxerzy/dockshelf-releases/releases/download/v0.4.0/DockShelf-0.4.0.dmg" sparkle:edSignature="NshIVYYGmOhVKR82p9XH9K76qOyz9uJ4GIvA/B2hKcO9Mc9A8kVhCw6TgwDUvKMNpJVeQDc7hSjvcnm5vJW7AA==" length="9890790" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>DockShelf 0.3.1</title>
       <pubDate>Sat, 10 Oct 2026 00:15:22 +0200</pubDate>
       <sparkle:version>6</sparkle:version>
