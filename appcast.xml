@@ -6,6 +6,21 @@
     <description>DockShelf updates</description>
     <language>en</language>
     <item>
+      <title>DockShelf 0.6.0</title>
+      <pubDate>Tue, 20 Oct 2026 14:45:12 +0200</pubDate>
+      <sparkle:version>9</sparkle:version>
+      <sparkle:shortVersionString>0.6.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[
+<h3>DockShelf 0.6.0</h3>
+<ul>
+<li>Tastaturmodus (⌃⌥⌘J), ohne dass DockShelf deine App in den Hintergrund schickt: Die App vorne bleibt aktiv, und nach dem Beenden geht die Tastatur direkt an sie zurück.</li>
+<li>Unter der Haube: Die Berechnung von Dock-Position und Shelf-Größe ist jetzt mit über 100 Testfällen abgesichert, dazu Tests für die Ordner-Shelves und die Zwischenablage – insgesamt 108 automatische Tests vor jeder Version.</li>
+</ul>
+      ]]></description>
+      <enclosure url="https://github.com/maxxerzy/dockshelf-releases/releases/download/v0.6.0/DockShelf-0.6.0.dmg" sparkle:edSignature="QybrjBBYbQfsTPcqfjzF/eQmMAxlXXHdJdpEa2nMPHGgUOQ1IYiuqfqJ2ezPkX5v2fqewaJfsrUNMPYVbskRDA==" length="10326889" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>DockShelf 0.5.0</title>
       <pubDate>Tue, 20 Oct 2026 14:16:27 +0200</pubDate>
       <sparkle:version>8</sparkle:version>
