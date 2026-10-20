@@ -6,6 +6,27 @@
     <description>DockShelf updates</description>
     <language>en</language>
     <item>
+      <title>DockShelf 0.5.0</title>
+      <pubDate>Tue, 20 Oct 2026 14:16:27 +0200</pubDate>
+      <sparkle:version>8</sparkle:version>
+      <sparkle:shortVersionString>0.5.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[
+<h3>DockShelf 0.5.0</h3>
+<ul>
+<li>DockShelf spricht jetzt Deutsch (auf Macs mit deutscher Systemsprache).</li>
+<li>Wenn etwas nicht klappt, sagt es das Menü: z. B. „Pausiert, solange Slack läuft“, fehlender Ordnerzugriff, fehlende Bedienungshilfen oder ein schon belegtes Tastenkürzel – jeweils mit Knopf zur passenden Einstellung.</li>
+<li>Neu im Menü unter Hilfe: „Willkommen &amp; Tipps…“, „Diagnose kopieren“ und „Feedback senden…“.</li>
+<li>Leere Shelves ohne Ordnerzugriff zeigen das jetzt an, mit Knopf zu den Systemeinstellungen.</li>
+<li>Liegen Bildschirmfotos auf dem Schreibtisch, zeigt das Screenshot-Shelf nur noch Bildschirmfotos statt jeder neuen Datei.</li>
+<li>Einheitlicher Fächer auf allen Shelves; „Vom Shelf entfernen“ und „In den Papierkorb“ sind klar getrennt; „Bezeichnung bearbeiten…“ statt „Umbenennen…“.</li>
+<li>Pfeiltasten und Return in Suche und Schnellsuche; KI-Schlagwörter in der Systemsprache; bessere VoiceOver-Unterstützung.</li>
+<li>Überarbeitetes Willkommensfenster mit Status der Bedienungshilfen und Tipps zum Ausprobieren.</li>
+</ul>
+      ]]></description>
+      <enclosure url="https://github.com/maxxerzy/dockshelf-releases/releases/download/v0.5.0/DockShelf-0.5.0.dmg" sparkle:edSignature="rJ6MvvvRir3yxA+jPpA5AoEAopvXzgU3iuPJD+bNwtGul06ftA8zj2CoAvrCCIISPUy1tMJrKFNoh5gqSCPbCg==" length="10253054" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>DockShelf 0.4.0</title>
       <pubDate>Tue, 20 Oct 2026 12:29:59 +0200</pubDate>
       <sparkle:version>7</sparkle:version>
