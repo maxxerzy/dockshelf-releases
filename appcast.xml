@@ -6,6 +6,21 @@
     <description>DockShelf updates</description>
     <language>en</language>
     <item>
+      <title>DockShelf 0.7.0</title>
+      <pubDate>Fri, 23 Oct 2026 00:49:05 +0200</pubDate>
+      <sparkle:version>12</sparkle:version>
+      <sparkle:shortVersionString>0.7.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[
+<h3>DockShelf 0.7.0</h3>
+<ul>
+<li>Bildschirmfotos über ihren Text in Spotlight finden: In Einstellungen › Shelves kannst du „Bildschirmfotos in Spotlight durchsuchbar machen“ einschalten (standardmäßig aus). Dann findet die normale Spotlight-Suche deine 500 neuesten Bildschirmfotos auch über den Text darin. Alles bleibt auf deinem Mac; Ausschalten entfernt die Einträge wieder.</li>
+<li>Eigene Tastenkürzel: Unter Einstellungen › Menüs &amp; Kurzbefehle kannst du jedes ⌃⌥⌘-Kürzel ändern oder ausschalten – praktisch, wenn eine andere App schon dasselbe Kürzel nutzt.</li>
+</ul>
+      ]]></description>
+      <enclosure url="https://github.com/maxxerzy/dockshelf-releases/releases/download/v0.7.0/DockShelf-0.7.0.dmg" sparkle:edSignature="wlz9De3m+k8poTHYM2b+KTuhsome8khrg0tmUtdcJ/AEeBODEdr1OzkhgVTy9M2c6wGd9NTikde1DUTuXCtqBA==" length="10522688" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>DockShelf 0.6.2</title>
       <pubDate>Fri, 23 Oct 2026 00:28:43 +0200</pubDate>
       <sparkle:version>11</sparkle:version>
