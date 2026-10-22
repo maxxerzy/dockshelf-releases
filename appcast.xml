@@ -6,6 +6,20 @@
     <description>DockShelf updates</description>
     <language>en</language>
     <item>
+      <title>DockShelf 0.6.1</title>
+      <pubDate>Fri, 23 Oct 2026 00:20:14 +0200</pubDate>
+      <sparkle:version>10</sparkle:version>
+      <sparkle:shortVersionString>0.6.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[
+<h3>DockShelf 0.6.1</h3>
+<ul>
+<li>Die Shelves passen sich jetzt live an, während du die Dockgröße änderst – beim Ziehen am Trennstrich im Dock und beim Regler in den Systemeinstellungen –, flüssig im Takt deines Bildschirms statt erst nach dem Loslassen.</li>
+</ul>
+      ]]></description>
+      <enclosure url="https://github.com/maxxerzy/dockshelf-releases/releases/download/v0.6.1/DockShelf-0.6.1.dmg" sparkle:edSignature="k7zS2kMTz7ADU+hRhUgDPV8R5wzKGC7WcUclOk6CtMEUu7D3Oz0Ws4ZDSrJR7tq770y1DPDVojvySUSfV9crDA==" length="10334861" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>DockShelf 0.6.0</title>
       <pubDate>Tue, 20 Oct 2026 14:45:12 +0200</pubDate>
       <sparkle:version>9</sparkle:version>
