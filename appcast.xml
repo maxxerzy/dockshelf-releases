@@ -6,6 +6,21 @@
     <description>DockShelf updates</description>
     <language>en</language>
     <item>
+      <title>DockShelf 0.6.2</title>
+      <pubDate>Fri, 23 Oct 2026 00:28:43 +0200</pubDate>
+      <sparkle:version>11</sparkle:version>
+      <sparkle:shortVersionString>0.6.2</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[
+<h3>DockShelf 0.6.2</h3>
+<ul>
+<li>Neue Updates siehst du jetzt sofort: Liegt eine neue Version bereit, bekommt das DockShelf-Symbol in der Menüleiste einen pulsierenden blauen Punkt.</li>
+<li>Im Menü installiert „Auf DockShelf … aktualisieren und neu starten“ das Update mit einem Klick, statt erst beim Beenden.</li>
+</ul>
+      ]]></description>
+      <enclosure url="https://github.com/maxxerzy/dockshelf-releases/releases/download/v0.6.2/DockShelf-0.6.2.dmg" sparkle:edSignature="n5FbgyzI+DXim6M6C90PW8DOduIR5W2NxQAQNpnKgX+oScz17ZQknHvWEIFa7r7CQ5znQBnh8eNFX2518MrPBA==" length="10341566" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>DockShelf 0.6.1</title>
       <pubDate>Fri, 23 Oct 2026 00:20:14 +0200</pubDate>
       <sparkle:version>10</sparkle:version>
