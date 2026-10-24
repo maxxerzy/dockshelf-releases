@@ -6,6 +6,24 @@
     <description>DockShelf updates</description>
     <language>en</language>
     <item>
+      <title>DockShelf 1.0.0</title>
+      <pubDate>Sat, 24 Oct 2026 23:20:41 +0200</pubDate>
+      <sparkle:version>15</sparkle:version>
+      <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[
+<h3>DockShelf 1.0.0</h3>
+<ul>
+<li>DockShelf 1.0 – die erste fertige Version. Danke fürs Ausprobieren!</li>
+<li>Über 20 Fehler behoben, unter anderem: Dateien auf dem Shelf verschwinden nicht mehr, wenn DockShelf nur kurz keinen Zugriff hat; „In Ordner bewegen…“ auf ein anderes Laufwerk behält den Eintrag; Zippen nimmt jetzt auch Ordner mit; hochkant fotografierte Bilder bleiben beim Konvertieren aufrecht.</li>
+<li>Datenschutz: Ein Passwort, das du kopierst und sofort zur nächsten App wechselst, landet nicht mehr im Zwischenablage-Verlauf.</li>
+<li>⌃⌥⌘X funktioniert jetzt auch über Vollbild-Apps aus deiner Ausnahmen-Liste, und eine neue Akzentfarbe färbt die Shelves sofort.</li>
+<li>Neu im Menü unter Hilfe: „Neu in DockShelf…“ zeigt diese Hinweise jederzeit wieder.</li>
+</ul>
+      ]]></description>
+      <enclosure url="https://github.com/maxxerzy/dockshelf-releases/releases/download/v1.0.0/DockShelf-1.0.0.dmg" sparkle:edSignature="eR+tC91MPwkKSSbcCishh4CklxcKnvPUtxBjmxBxKYugQBke2VaK86yj/RsffvDnDZbokalr44k2a/6Y8afoCw==" length="10931349" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>DockShelf 0.9.0</title>
       <pubDate>Sat, 24 Oct 2026 22:45:14 +0200</pubDate>
       <sparkle:version>14</sparkle:version>
