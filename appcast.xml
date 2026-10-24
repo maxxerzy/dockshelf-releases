@@ -6,6 +6,24 @@
     <description>DockShelf updates</description>
     <language>en</language>
     <item>
+      <title>DockShelf 0.8.0</title>
+      <pubDate>Sat, 24 Oct 2026 22:12:05 +0200</pubDate>
+      <sparkle:version>13</sparkle:version>
+      <sparkle:shortVersionString>0.8.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[
+<h3>DockShelf 0.8.0</h3>
+<ul>
+<li>Ausblenden mit Ton: Blendest du die Shelves selbst aus (⌃⌥⌘X oder Menü), gibt es jetzt auch einen Ton – passend zum Einblenden (wenn Töne in den Einstellungen an sind).</li>
+<li>Zuverlässigere Vollbild-Erkennung: auch bei Spielen, Videoplayern und Browsern im Vollbild, bei Vollbild auf dem Dock-Bildschirm, während du auf einem anderen arbeitest, und nach dem Wechseln zwischen Spaces.</li>
+<li>Externe Monitore: Wandert das Dock auf einen anderen Bildschirm, kommen beide Shelves sofort mit.</li>
+<li>Bessere KI-Zusammenfassung: Der Tooltip zeigt jetzt eine kurze Zusammenfassung, was auf dem Bildschirmfoto zu sehen ist, darunter treffendere Stichwörter. Die Suche findet auch die Zusammenfassung.</li>
+<li>Konvertieren direkt im Fächer: Ein eigener Knopf öffnet die Formate (PNG, JPEG, PDF komprimieren); unter „Mehr…“ taucht es nicht mehr doppelt auf.</li>
+</ul>
+      ]]></description>
+      <enclosure url="https://github.com/maxxerzy/dockshelf-releases/releases/download/v0.8.0/DockShelf-0.8.0.dmg" sparkle:edSignature="uuNv2YAtnNJaeQaKhZA5por0IiZ3gYKH7YryEHtNtO73V7iKqiR+zf2F9qM7e2N/spHefojxim/KILSQ34HsBw==" length="10655470" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>DockShelf 0.7.0</title>
       <pubDate>Fri, 23 Oct 2026 00:49:05 +0200</pubDate>
       <sparkle:version>12</sparkle:version>
