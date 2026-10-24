@@ -1,6 +1,6 @@
 # DockShelf – Nutzungsbedingungen und Datenschutzhinweise
 
-*Stand: 23. Oktober 2026 · gilt für DockShelf ab Version 0.9.0 · English version below*
+*Stand: 23. Oktober 2026 · gilt für DockShelf ab Version 1.0.0 · English version below*
 
 **Kurz gesagt:** DockShelf ist ein kostenloses Hobbyprojekt. Es arbeitet vollständig auf deinem Mac: kein Konto, keine Werbung, keine Analyse, keine Server des Entwicklers. Ins Internet geht DockShelf nur, um bei GitHub nach Updates zu fragen, und das kannst du abschalten. Du nutzt die App auf eigenes Risiko; bitte sichere wichtige Daten.
 
@@ -89,7 +89,7 @@ Da bei mir außer E-Mails, die du mir selbst schickst, keine Daten über dich ge
 
 # DockShelf – Terms of Use and Privacy Notice
 
-*Last updated: 23 October 2026 · applies to DockShelf 0.9.0 and later · This is a translation; if the two versions differ, the German version prevails.*
+*Last updated: 23 October 2026 · applies to DockShelf 1.0.0 and later · This is a translation; if the two versions differ, the German version prevails.*
 
 **In short:** DockShelf is a free hobby project. It runs entirely on your Mac: no account, no ads, no analytics, no developer servers. The only time DockShelf goes online is to ask GitHub for updates, and you can turn that off. You use the app at your own risk; please back up important data.
 
