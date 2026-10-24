@@ -6,6 +6,14 @@ Shelves for files and screenshots right next to the macOS Dock, in Liquid Glass 
 
 **[Download the latest version](https://github.com/maxxerzy/dockshelf-releases/releases/latest)** — `DockShelf-<version>.dmg` (drag DockShelf onto Applications) or the `.pkg` installer. Apple Silicon and Intel, macOS 26 or later.
 
+## What it does
+
+- **Two shelves beside the Dock** in Liquid Glass that matches it — left and right of a bottom Dock, below and above a side Dock, following the Dock across displays and while you resize it.
+- **You choose what each side shows:** a file shelf you drop files onto, Screenshots & Downloads, Screenshots, Downloads, the Desktop, a folder of your choice, or your clipboard history.
+- **Right-click fan** with AirDrop in the middle, Quick Look, copy, Finder, convert (PNG/JPEG, compress PDF) and more; keyboard mode (⌃⌥⌘J) and customizable shortcuts.
+- **Find screenshots by their text** — on-device text recognition and Apple Intelligence summaries, optionally in Spotlight.
+- **Private:** everything stays on your Mac; the only network request is the update check on GitHub. German and English.
+
 ## First launch
 
 DockShelf isn't notarized by Apple, so macOS blocks the very first launch:
