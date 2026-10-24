@@ -6,6 +6,23 @@
     <description>DockShelf updates</description>
     <language>en</language>
     <item>
+      <title>DockShelf 0.9.0</title>
+      <pubDate>Sat, 24 Oct 2026 22:45:14 +0200</pubDate>
+      <sparkle:version>14</sparkle:version>
+      <sparkle:shortVersionString>0.9.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[
+<h3>DockShelf 0.9.0</h3>
+<ul>
+<li>Stürzt DockShelf ab oder wird unerwartet beendet, zeigt das Menü beim nächsten Mal „DockShelf wurde unerwartet beendet – Feedback senden…“. Eine kurze technische Zusammenfassung bleibt auf deinem Mac und wird nur mitgeschickt, wenn du selbst Feedback sendest.</li>
+<li>Stabiler und sparsamer: festes Speicherlimit für Vorschaubilder, die Größenanpassung beim Ziehen am Dock ist auf 120 Bilder pro Sekunde begrenzt, und die Spotlight-Suche baut sich neu auf, falls macOS seinen Index zurücksetzt.</li>
+<li>Spotlight zeigt bei Bildschirmfotos jetzt auch die KI-Zusammenfassung an.</li>
+<li>Unter der Haube: ein eingebauter Selbsttest (nur für die Entwicklung) und über 200 automatische Tests vor jeder Version.</li>
+</ul>
+      ]]></description>
+      <enclosure url="https://github.com/maxxerzy/dockshelf-releases/releases/download/v0.9.0/DockShelf-0.9.0.dmg" sparkle:edSignature="OSE4obgi11qRqyrxEzNmQzTt1WkSqwnr5z9HZXVar+LqGAR1aoo+QKyMkIulCuJHtSdP4SkpgXH0vccANWLjCg==" length="10814881" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>DockShelf 0.8.0</title>
       <pubDate>Sat, 24 Oct 2026 22:12:05 +0200</pubDate>
       <sparkle:version>13</sparkle:version>
