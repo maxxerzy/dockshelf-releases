@@ -6,6 +6,22 @@
     <description>DockShelf updates</description>
     <language>en</language>
     <item>
+      <title>DockShelf 1.1.0</title>
+      <pubDate>Tue, 27 Oct 2026 16:24:17 +0100</pubDate>
+      <sparkle:version>18</sparkle:version>
+      <sparkle:shortVersionString>1.1.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[
+<h3>DockShelf 1.1.0</h3>
+<ul>
+<li>Umbenennen mit KI: Im Menü eines Screenshots, Downloads oder Ordner-Eintrags (beim Fächer unter „Mehr…“) gibt es jetzt „Umbenennen…“. Apple Intelligence schlägt einen Namen anhand des Inhalts vor – aus „Bildschirmfoto 2026-10-27 um 15.10.00“ wird z. B. „Xcode Build-Fehler ContentView“. ⌘Z macht es rückgängig, ein Pin bleibt erhalten.</li>
+<li>KI-Infos jetzt auch für Textdokumente: Textdateien, Markdown, RTF und Word-Dokumente bekommen beim Drüberfahren eine Zusammenfassung mit Stichpunkten und sind in der Suche nach ihrem Inhalt auffindbar.</li>
+<li>Einstellungen › Shelves zeigt jetzt, ob Apple Intelligence die Bilder selbst sieht oder nur den Text darin liest.</li>
+</ul>
+      ]]></description>
+      <enclosure url="https://github.com/maxxerzy/dockshelf-releases/releases/download/v1.1.0/DockShelf-1.1.0.dmg" sparkle:edSignature="4MLkKizTXM9e5OhwftFlu4X1nVFVttid+K7L4ZBC8taJ8J922KuSO8u6+zoJrrJodGGkPUpJ270EXj0+WgWdAg==" length="11038503" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>DockShelf 1.0.2</title>
       <pubDate>Tue, 27 Oct 2026 15:23:53 +0100</pubDate>
       <sparkle:version>17</sparkle:version>
