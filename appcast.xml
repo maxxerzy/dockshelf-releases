@@ -6,6 +6,25 @@
     <description>DockShelf updates</description>
     <language>en</language>
     <item>
+      <title>DockShelf 1.1.3</title>
+      <pubDate>Wed, 28 Oct 2026 00:28:47 +0100</pubDate>
+      <sparkle:version>21</sparkle:version>
+      <sparkle:shortVersionString>1.1.3</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[
+<h3>DockShelf 1.1.3</h3>
+<ul>
+<li>Neues App-Symbol: dasselbe Ablage-Symbol wie in der Menüleiste.</li>
+<li>Datei-Shelf: Im Finder umbenannte oder verschobene Dateien behalten ihren neuen Namen auf dem Shelf, Dateien im Papierkorb gelten als gelöscht, und ⌘Z bringt keine doppelten Einträge mehr zurück. „In Ordner bewegen“ auf ein anderes Laufwerk friert die Shelves nicht mehr ein.</li>
+<li>Zwischenablage: Dasselbe zweimal kopieren rückt den Eintrag nach oben, statt ihn doppelt zu zeigen.</li>
+<li>Ordner-Shelves: Ein Shelf, das „Kein Zugriff“ zeigte, merkt jetzt, wenn du den Zugriff erlaubst. Gepinnte Dateien, die gelöscht wurden, bleiben nicht mehr gepinnt.</li>
+<li>Schneller und sparsamer: Vorschaubilder auch in Suche und Schnellsuche, schonendere Texterkennung großer Bilder, höchstens 30 KI-Auswertungen pro gefilterter Suche, weniger Arbeit bei vielen neuen Downloads und kein Stocken mehr durch hängende Apps.</li>
+<li>Kleinere Korrekturen: „Text kopieren“ und „Konvertieren“ nicht mehr für SVG-Dateien, Fächer-Kürzel nicht mehr mit ⌘, korrigierte Hinweise in den Einstellungen und in der Datenschutzerklärung (PDFs und Dokumente werden gelesen).</li>
+</ul>
+      ]]></description>
+      <enclosure url="https://github.com/maxxerzy/dockshelf-releases/releases/download/v1.1.3/DockShelf-1.1.3.dmg" sparkle:edSignature="BMgkVJjulOzTk9kKVst2tVQZ0ozpO+Qv47ldQDo4f+gnKSIvk7KZAaVNFrlk3/+ihQ2w9NJ7DJVP6xD6/6x0Aw==" length="5285726" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>DockShelf 1.1.2</title>
       <pubDate>Tue, 27 Oct 2026 21:10:13 +0100</pubDate>
       <sparkle:version>20</sparkle:version>
