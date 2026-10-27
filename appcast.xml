@@ -6,6 +6,21 @@
     <description>DockShelf updates</description>
     <language>en</language>
     <item>
+      <title>DockShelf 1.1.2</title>
+      <pubDate>Tue, 27 Oct 2026 21:10:13 +0100</pubDate>
+      <sparkle:version>20</sparkle:version>
+      <sparkle:shortVersionString>1.1.2</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[
+<h3>DockShelf 1.1.2</h3>
+<ul>
+<li>Nur noch lateinische Schrift: Die Texterkennung hielt manche Symbole in Screenshots für fremde Schriftzeichen (z. B. „푸“). Tooltips, Suche, „Text kopieren“ und die KI-Infos zeigen jetzt nur noch lateinische Buchstaben – Umlaute, Akzente, Ziffern und Emoji bleiben.</li>
+<li>Aufgeräumtere Tooltips: Ohne KI-Zusammenfassung zeigt der Textauszug keine einzelnen Zeichen, Zähler oder doppelten Zeilen mehr.</li>
+</ul>
+      ]]></description>
+      <enclosure url="https://github.com/maxxerzy/dockshelf-releases/releases/download/v1.1.2/DockShelf-1.1.2.dmg" sparkle:edSignature="MjcD55pMuxUm+xnGiehaa2qdZ4Nd0T1prdf0zGj9/3X1PPGj5+J6Hytt1/mQsxaMdcHTTSnqfbKHqDUyWUjCAg==" length="11079076" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>DockShelf 1.1.1</title>
       <pubDate>Tue, 27 Oct 2026 20:19:29 +0100</pubDate>
       <sparkle:version>19</sparkle:version>
