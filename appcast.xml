@@ -6,6 +6,21 @@
     <description>DockShelf updates</description>
     <language>en</language>
     <item>
+      <title>DockShelf 1.1.1</title>
+      <pubDate>Tue, 27 Oct 2026 20:19:29 +0100</pubDate>
+      <sparkle:version>19</sparkle:version>
+      <sparkle:shortVersionString>1.1.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[
+<h3>DockShelf 1.1.1</h3>
+<ul>
+<li>Zuverlässiger im Vollbild: Unter macOS 27 tauchten die Shelves nach gut einer Sekunde mitten in einer Vollbild-App wieder auf – jetzt bleiben sie weg, bis du das Vollbild verlässt, auch wenn du DockShelf dabei in den Vordergrund holst.</li>
+<li>Kiosk-Apps und Präsentationen, die das Dock ausblenden, blenden jetzt sofort auch die Shelves aus – und nach Spielen oder Präsentationen über dem Dock kommen die Shelves von selbst zurück, ohne dass du die App wechseln musst.</li>
+</ul>
+      ]]></description>
+      <enclosure url="https://github.com/maxxerzy/dockshelf-releases/releases/download/v1.1.1/DockShelf-1.1.1.dmg" sparkle:edSignature="2viMFU4JZry6DLm9oQQ3pvUcvgsCZ6aRWTj8oDEHL1IoXvH+ODl4yBstl7EbO4SqmbIluxCYRMq6LXdRluOEBw==" length="11074435" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>DockShelf 1.1.0</title>
       <pubDate>Tue, 27 Oct 2026 16:24:17 +0100</pubDate>
       <sparkle:version>18</sparkle:version>
