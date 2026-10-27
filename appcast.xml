@@ -6,6 +6,23 @@
     <description>DockShelf updates</description>
     <language>en</language>
     <item>
+      <title>DockShelf 1.0.2</title>
+      <pubDate>Tue, 27 Oct 2026 15:23:53 +0100</pubDate>
+      <sparkle:version>17</sparkle:version>
+      <sparkle:shortVersionString>1.0.2</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[
+<h3>DockShelf 1.0.2</h3>
+<ul>
+<li>Der Fächer ist jetzt gestochen scharf und symmetrisch: AirDrop steht immer genau in der Mitte, und ein Knopf hebt sich beim Drüberfahren leicht nach oben, statt zur Seite zu rutschen.</li>
+<li>Neu im Fächer bei Bildern und PDFs: „Text kopieren“ (Taste T) legt den Text aus dem Bild oder PDF in die Zwischenablage.</li>
+<li>Klügere KI-Infos beim Drüberfahren: Unter macOS 27 sieht Apples On-Device-Modell das Bild selbst – auch Fotos ohne Text, Diagramme und Tabellen – und zeigt neben der Zusammenfassung 2–3 Stichpunkte. Alles bleibt auf deinem Mac.</li>
+<li>PDFs in Downloads &amp; Co. bekommen jetzt ebenfalls eine Zusammenfassung und sind in der Suche nach ihrem Inhalt auffindbar.</li>
+</ul>
+      ]]></description>
+      <enclosure url="https://github.com/maxxerzy/dockshelf-releases/releases/download/v1.0.2/DockShelf-1.0.2.dmg" sparkle:edSignature="uP2zhLsd930hBIcwLfHLNowp1LYvPdxfqtDksg+hlMRBumpVfwpN2wi+afU9BGWOhuStyWIftOHiGe6b48FACQ==" length="10995654" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>DockShelf 1.0.1</title>
       <pubDate>Sat, 24 Oct 2026 23:34:30 +0200</pubDate>
       <sparkle:version>16</sparkle:version>
