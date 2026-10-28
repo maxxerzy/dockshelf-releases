@@ -6,6 +6,24 @@
     <description>DockShelf updates</description>
     <language>en</language>
     <item>
+      <title>DockShelf 1.1.4</title>
+      <pubDate>Wed, 28 Oct 2026 11:50:28 +0100</pubDate>
+      <sparkle:version>22</sparkle:version>
+      <sparkle:shortVersionString>1.1.4</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[
+<h3>DockShelf 1.1.4</h3>
+<ul>
+<li>Viel mehr Konvertierungen: Videos in MP4 (H.264, spielt überall) oder MOV, eine kleinere 720p-Kopie, ein GIF oder nur den Ton; Audio in M4A, WAV oder AIFF; PDF-Seiten als PNG oder PDF als Text; Dokumente (Word, RTF, Text) in PDF, Word, RTF oder Text; Bilder wie HEIC in JPEG, PNG, TIFF oder PDF.</li>
+<li>Fortschrittsanzeige: Während eine Datei konvertiert wird, zeigt ihr Eintrag einen Ring, der sich füllt.</li>
+<li>Gepinnte Dateien in Ordner-Shelves sind jetzt dezent farbig hinterlegt statt mit einem kleinen Pin markiert.</li>
+<li>Mehrseitige TIFF-Scans behalten beim Konvertieren alle Seiten und ihre Größe, Bilder ihre Auflösung.</li>
+<li>Zuverlässiger: „In Ordner bewegen“ blockiert keine neuen Dateien mit gleichem Namen mehr, Konvertierungen gespeicherter Kopien werden nicht doppelt abgelegt, und ein Netzlaufwerk, das nicht antwortet, bremst die Shelves nicht mehr aus.</li>
+</ul>
+      ]]></description>
+      <enclosure url="https://github.com/maxxerzy/dockshelf-releases/releases/download/v1.1.4/DockShelf-1.1.4.dmg" sparkle:edSignature="IyWZgC7LgHZ/uePxLi7ndjf+kRysbQLq2MGcOf9cx9nQ798u52idwKArcHxk0Z6GvkTvNNj73EOnqpKznJbbAA==" length="5640523" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>DockShelf 1.1.3</title>
       <pubDate>Wed, 28 Oct 2026 00:28:47 +0100</pubDate>
       <sparkle:version>21</sparkle:version>
