@@ -10,7 +10,8 @@ Shelves for files and screenshots right next to the macOS Dock, in Liquid Glass 
 
 - **Two shelves beside the Dock** in Liquid Glass that matches it — left and right of a bottom Dock, below and above a side Dock, following the Dock across displays and while you resize it.
 - **You choose what each side shows:** a file shelf you drop files onto, Screenshots & Downloads, Screenshots, Downloads, the Desktop, a folder of your choice, or your clipboard history.
-- **Right-click fan** with AirDrop in the middle, Quick Look, copy, Finder, convert (PNG/JPEG, compress PDF) and more; keyboard mode (⌃⌥⌘J) and customizable shortcuts.
+- **Right-click fan** with AirDrop in the middle, Quick Look, copy, copy text, Finder, convert and more; keyboard mode (⌃⌥⌘J) and customizable shortcuts.
+- **Convert on the spot, with a progress ring:** videos to MP4 (H.264, plays everywhere) or MOV, a smaller 720p copy, a GIF or just the audio; audio to M4A, WAV or AIFF; HEIC and other images to JPEG, PNG, HEIC, TIFF or PDF; PDF pages to PNG or text, compress PDF; Word, RTF and text documents to PDF, Word, RTF or text.
 - **Find screenshots by their text** — on-device text recognition and Apple Intelligence summaries, optionally in Spotlight.
 - **Private:** everything stays on your Mac; the only network request is the update check on GitHub. German and English.
 
