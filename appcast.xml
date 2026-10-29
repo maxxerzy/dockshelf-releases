@@ -6,6 +6,25 @@
     <description>DockShelf updates</description>
     <language>en</language>
     <item>
+      <title>DockShelf 1.1.7</title>
+      <pubDate>Thu, 29 Oct 2026 20:42:23 +0100</pubDate>
+      <sparkle:version>25</sparkle:version>
+      <sparkle:shortVersionString>1.1.7</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[
+<h3>DockShelf 1.1.7</h3>
+<ul>
+<li>Datenschutz-Pause: Das Ankreuzen einer laufenden App (etwa Zoom während einer Bildschirmfreigabe) wirkt jetzt sofort.</li>
+<li>Umsortieren im Datei-Shelf: Ein gezogener Eintrag nimmt den Platz des Ziels ein, also auch eine Stelle nach rechts und ans Ende.</li>
+<li>Tastenkürzel: Standardbefehle wie ⌘W, ⌘Q oder ⌘Z lassen sich nicht mehr versehentlich als globales Kürzel festlegen, und die Aufnahme fängt nur noch Tasten im Einstellungsfenster ab.</li>
+<li>Ein offenes Umbenennen im Datei-Shelf wird beim Klick daneben übernommen und blockiert ⌘Z nicht mehr; die erste Pfeiltaste überspringt keinen Eintrag mehr.</li>
+<li>Zuverlässigere Texterkennung: höchstens zwei Erkennungen gleichzeitig, kein Abbruch während Visions Modellvorbereitung nach macOS-Updates, gescannte PDFs werden nach einem Fehler erneut gelesen.</li>
+<li>Schneller und sparsamer: flüssigeres Suchfenster bei vielen Treffern (Suche ignoriert jetzt auch Akzente), weniger Arbeit bei langen Kopiervorgängen, Zwischenablage-Verlauf mit höchstens 24 MB Bildern und ohne Abfragen bei schlafendem Bildschirm.</li>
+</ul>
+      ]]></description>
+      <enclosure url="https://github.com/maxxerzy/dockshelf-releases/releases/download/v1.1.7/DockShelf-1.1.7.dmg" sparkle:edSignature="QOpBLguksCxE6vbPMp+mj0kBYNDzrtSRJ42LzwCKokwiWfl+L4TnkhG+95jfbFb83rCxxEYoCeIEEu5jt/xeBA==" length="5824500" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>DockShelf 1.1.6</title>
       <pubDate>Thu, 29 Oct 2026 19:47:13 +0100</pubDate>
       <sparkle:version>24</sparkle:version>
