@@ -6,6 +6,25 @@
     <description>DockShelf updates</description>
     <language>en</language>
     <item>
+      <title>DockShelf 1.1.5</title>
+      <pubDate>Thu, 29 Oct 2026 18:31:16 +0100</pubDate>
+      <sparkle:version>23</sparkle:version>
+      <sparkle:shortVersionString>1.1.5</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[
+<h3>DockShelf 1.1.5</h3>
+<ul>
+<li>Behebt hohe Prozessorlast unter macOS 27.2: Das Menüleisten-Symbol konnte sich endlos neu zeichnen und einen Prozessorkern dauerhaft auslasten. Im Leerlauf braucht DockShelf jetzt wieder praktisch nichts.</li>
+<li>DockShelf achtet selbst auf seine Rechenlast: Braucht es je wieder minutenlang ungewöhnlich viel, steht es im Menü – samt Möglichkeit, Feedback zu senden.</li>
+<li>Weniger Speicher: Die Texterkennung läuft in einem eigenen Hilfsprozess, der sich nach getaner Arbeit beendet.</li>
+<li>Spotlight und Suche: KI-Zusammenfassungen kommen auch nachträglich in den Spotlight-Index, und das Suchfenster zeigt neue Screenshots und entfernt gelöschte, ohne neue Eingabe.</li>
+<li>Zuverlässiger mit Netzlaufwerken, iCloud und iPhone: Kopieren, Symbole und „In Ordner bewegen“ blockieren nicht mehr, und auf dem iPhone kopierte Fotos werden nicht mehr automatisch übertragen.</li>
+<li>Kleinere Korrekturen: keine Tooltips mehr über Kontextmenüs, die Datenschutz-Pause endet zuverlässig, AirDrop gibt den Fokus zurück, und Passwörter aus der Menüleiste landen nie im Zwischenablage-Verlauf.</li>
+</ul>
+      ]]></description>
+      <enclosure url="https://github.com/maxxerzy/dockshelf-releases/releases/download/v1.1.5/DockShelf-1.1.5.dmg" sparkle:edSignature="BdwaSYLlT4LFBAO/g7XQAp4Dunw/f7qsQpi9+uHUUO+sqvlOLLTybmPUdlQJXkPnwJLDV0PrXXcAqsUXxgqdBQ==" length="5760531" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>DockShelf 1.1.4</title>
       <pubDate>Wed, 28 Oct 2026 11:50:28 +0100</pubDate>
       <sparkle:version>22</sparkle:version>
