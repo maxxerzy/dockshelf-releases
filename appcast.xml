@@ -6,6 +6,22 @@
     <description>DockShelf updates</description>
     <language>en</language>
     <item>
+      <title>DockShelf 1.1.8</title>
+      <pubDate>Fri, 30 Oct 2026 02:39:05 +0100</pubDate>
+      <sparkle:version>26</sparkle:version>
+      <sparkle:shortVersionString>1.1.8</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[
+<h3>DockShelf 1.1.8</h3>
+<ul>
+<li>Automatisch ausgeblendetes Dock: Die Shelves fahren jetzt fast gleichzeitig mit dem Dock aus, rund 40 ms danach statt 150 ms.</li>
+<li>Deutlich sparsamer bei automatisch ausgeblendetem Dock: DockShelf fragt das Dock nur noch ab, wenn der Zeiger in seiner Nähe ist. Im Leerlauf braucht es ein Viertel der Rechenzeit, und das Dock selbst wird nicht mehr ständig geweckt.</li>
+<li>Unter der Haube aufgeräumt: große Dateien aufgeteilt, und ein neuer Test bewacht das Menüleisten-Symbol gegen die CPU-Schleife aus 1.1.4.</li>
+</ul>
+      ]]></description>
+      <enclosure url="https://github.com/maxxerzy/dockshelf-releases/releases/download/v1.1.8/DockShelf-1.1.8.dmg" sparkle:edSignature="b8g8NDyuksJPuv4Jp0zfS3qrKn385vPJqq/3So1rm7R5fe8Rom9rikxWaFbaj9leTnTTmXVJ9d6XeL+GxwVSAg==" length="5840311" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>DockShelf 1.1.7</title>
       <pubDate>Thu, 29 Oct 2026 20:42:23 +0100</pubDate>
       <sparkle:version>25</sparkle:version>
