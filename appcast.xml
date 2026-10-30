@@ -6,6 +6,23 @@
     <description>DockShelf updates</description>
     <language>en</language>
     <item>
+      <title>DockShelf 1.1.9</title>
+      <pubDate>Fri, 30 Oct 2026 03:05:19 +0100</pubDate>
+      <sparkle:version>27</sparkle:version>
+      <sparkle:shortVersionString>1.1.9</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[
+<h3>DockShelf 1.1.9</h3>
+<ul>
+<li>Aufgeräumtes Menü: nur noch die wichtigsten Befehle; Hilfe, Neuigkeiten, Updates und Feedback liegen im Untermenü „Hilfe“. Der Tastaturmodus erscheint nur, wenn eine Seite das Datei-Shelf zeigt.</li>
+<li>Die Einstellungen sind größer und öffnen sich direkt unter dem DockShelf-Symbol in der Menüleiste.</li>
+<li>Ein Absturz einer älteren Version wird nur noch einen Tag lang im Menü gemeldet.</li>
+<li>„Diagnose kopieren“ zeigt jetzt auch den Speicherverbrauch; DockShelf beobachtet ihn selbst, damit sich ungewöhnliches Wachstum aufspüren lässt.</li>
+</ul>
+      ]]></description>
+      <enclosure url="https://github.com/maxxerzy/dockshelf-releases/releases/download/v1.1.9/DockShelf-1.1.9.dmg" sparkle:edSignature="kXKKN8ebuwRcTJp++Sjh6OHU3oGCtUitCNwAQi7iwchxIkSLxOmhT5ppjeKEhjYxT+KlpsTAIehxAlb/PHCQCg==" length="5854187" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>DockShelf 1.1.8</title>
       <pubDate>Fri, 30 Oct 2026 02:39:05 +0100</pubDate>
       <sparkle:version>26</sparkle:version>
