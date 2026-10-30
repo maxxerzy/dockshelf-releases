@@ -6,6 +6,23 @@
     <description>DockShelf updates</description>
     <language>en</language>
     <item>
+      <title>DockShelf 1.1.13</title>
+      <pubDate>Fri, 30 Oct 2026 17:59:51 +0100</pubDate>
+      <sparkle:version>31</sparkle:version>
+      <sparkle:shortVersionString>1.1.13</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[
+<h3>DockShelf 1.1.13</h3>
+<ul>
+<li>Neu in den Einstellungen: „Tasten im Fächer“. Jede Taste lässt sich ein- und ausschalten und per Ziehen oder mit den Pfeilen verschieben; „Auf Standard zurücksetzen“ holt die gewohnte Anordnung zurück.</li>
+<li>Der Fächer ist jetzt immer symmetrisch: Die Tasten verteilen sich gleichmäßig über den ganzen Bogen, egal wie viele es sind.</li>
+<li>Öffnen, In Ordner bewegen und Farb-Tag gibt es jetzt auch auf den Shelfs für Bildschirmfotos, Downloads und Ordner. Der Farb-Tag ist dort ein echter Finder-Tag an der Datei.</li>
+<li>Das Umbenennen-Fenster ist größer: Der ganze Dateiname ist in größerer Schrift lesbar.</li>
+</ul>
+      ]]></description>
+      <enclosure url="https://github.com/maxxerzy/dockshelf-releases/releases/download/v1.1.13/DockShelf-1.1.13.dmg" sparkle:edSignature="o0zqnqeiv+ksL+tFvFVQD25ItMhcFWwUqcNREQ4AILG6vo5FVareB2/53K8G5WDUgAAyyMGG8YzhVeS8v2jGDw==" length="6050349" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>DockShelf 1.1.12</title>
       <pubDate>Fri, 30 Oct 2026 17:28:15 +0100</pubDate>
       <sparkle:version>30</sparkle:version>
