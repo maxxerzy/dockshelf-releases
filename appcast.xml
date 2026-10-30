@@ -6,6 +6,22 @@
     <description>DockShelf updates</description>
     <language>en</language>
     <item>
+      <title>DockShelf 1.1.12</title>
+      <pubDate>Fri, 30 Oct 2026 17:28:15 +0100</pubDate>
+      <sparkle:version>30</sparkle:version>
+      <sparkle:shortVersionString>1.1.12</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[
+<h3>DockShelf 1.1.12</h3>
+<ul>
+<li>Der Fächer braucht kein „Mehr…“ mehr: Er enthält jetzt alles, was auch das Rechtsklick-Menü bietet.</li>
+<li>Neu im Fächer: Teilen (öffnet das Teilen-Fenster von macOS direkt am Objekt), auf dem Datei-Shelf außerdem In Ordner bewegen, Beschriftung bearbeiten und Farb-Tag, auf den Shelfs für Bildschirmfotos und Downloads Umbenennen.</li>
+<li>Tasten im offenen Fächer: S Teilen, M In Ordner bewegen, R Beschriftung bearbeiten bzw. Umbenennen, G Farb-Tag (dann 1–7 für die Farbe).</li>
+</ul>
+      ]]></description>
+      <enclosure url="https://github.com/maxxerzy/dockshelf-releases/releases/download/v1.1.12/DockShelf-1.1.12.dmg" sparkle:edSignature="Sgmp9Uqy2hXMuEvKNJZEdWo+XhNB2GK65lX+nJTCb3SH2N3+e3IyFjRiX4Ht3VyxaLpbovhKlVSizTGEqx4NAw==" length="5935758" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>DockShelf 1.1.11</title>
       <pubDate>Fri, 30 Oct 2026 15:04:09 +0100</pubDate>
       <sparkle:version>29</sparkle:version>
