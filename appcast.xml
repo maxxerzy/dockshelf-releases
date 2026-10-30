@@ -6,6 +6,26 @@
     <description>DockShelf updates</description>
     <language>en</language>
     <item>
+      <title>DockShelf 1.1.10</title>
+      <pubDate>Fri, 30 Oct 2026 13:55:24 +0100</pubDate>
+      <sparkle:version>28</sparkle:version>
+      <sparkle:shortVersionString>1.1.10</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[
+<h3>DockShelf 1.1.10</h3>
+<ul>
+<li>Im Tastaturmodus bleibt die Auswahl beim richtigen Objekt, auch wenn das Shelf sich daneben ändert: ⌘⌫ entfernt nie mehr ein anderes Objekt als das markierte.</li>
+<li>DockShelf hängt nicht mehr, wenn eine Netzfreigabe nach dem Aufwachen nicht antwortet: beim Start, beim Kopieren, beim Ziehen mehrerer Dateien und beim Beobachten der Ordner.</li>
+<li>Nach einem Neustart des Docks finden die Shelves wieder zuverlässig ihren Platz.</li>
+<li>Umwandeln in GIF klappt auch bei Videos, deren Tonspur länger ist als das Bild, und mit richtigem Tempo.</li>
+<li>Die Screenshot-Suche flackert nicht mehr, wenn währenddessen neue Dateien ankommen.</li>
+<li>„AirDrop“ im Menü ist ausgegraut, solange es nichts zu senden gibt. Erneutes Öffnen von DockShelf (Finder, Spotlight) öffnet die Einstellungen, auch wenn das Menüleisten-Symbol ausgeblendet ist.</li>
+<li>Sparsamer: Die Texterkennung beendet sich zuverlässig, ein defektes Bild wird nicht immer wieder gelesen, und im Vollbild fragt DockShelf das Dock seltener ab.</li>
+</ul>
+      ]]></description>
+      <enclosure url="https://github.com/maxxerzy/dockshelf-releases/releases/download/v1.1.10/DockShelf-1.1.10.dmg" sparkle:edSignature="nHtErjvY7oBpUf0jsHuJTa/BKLZGS4EXoPw0z0izXQwXMex1GL5m74SJd5Xz+f2dbTXwLf1M3X06cCkwQ+C3AQ==" length="5895636" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>DockShelf 1.1.9</title>
       <pubDate>Fri, 30 Oct 2026 03:05:19 +0100</pubDate>
       <sparkle:version>27</sparkle:version>
