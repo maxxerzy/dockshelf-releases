@@ -6,6 +6,21 @@
     <description>DockShelf updates</description>
     <language>en</language>
     <item>
+      <title>DockShelf 1.1.11</title>
+      <pubDate>Fri, 30 Oct 2026 15:04:09 +0100</pubDate>
+      <sparkle:version>29</sparkle:version>
+      <sparkle:shortVersionString>1.1.11</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[
+<h3>DockShelf 1.1.11</h3>
+<ul>
+<li>Fixierte Bildschirmfotos und Downloads sind jetzt dezenter unterlegt.</li>
+<li>Die Farbe dafür wählst du selbst: Einstellungen › Darstellung › „Fixierte Objekte“ – Akzentfarbe, Blau, Lila, Pink, Rot, Orange, Gelb, Grün oder Graphit.</li>
+</ul>
+      ]]></description>
+      <enclosure url="https://github.com/maxxerzy/dockshelf-releases/releases/download/v1.1.11/DockShelf-1.1.11.dmg" sparkle:edSignature="w7WSiFzqW2LLUpoPEFJVC6a9FHm89iZaLoyLHYnjz1ab4+3w70Tfpz6oAFQ7X4Jq5twqcRLAKadSmTPJy3O8BA==" length="5918716" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>DockShelf 1.1.10</title>
       <pubDate>Fri, 30 Oct 2026 13:55:24 +0100</pubDate>
       <sparkle:version>28</sparkle:version>
