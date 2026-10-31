@@ -6,6 +6,22 @@
     <description>DockShelf updates</description>
     <language>en</language>
     <item>
+      <title>DockShelf 1.1.14</title>
+      <pubDate>Sat, 31 Oct 2026 14:18:52 +0100</pubDate>
+      <sparkle:version>32</sparkle:version>
+      <sparkle:shortVersionString>1.1.14</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[
+<h3>DockShelf 1.1.14</h3>
+<ul>
+<li>Mit eingeschalteter Dock-Vergrößerung weichen die Shelfs jetzt sofort zur Seite, wenn das Dock unter dem Zeiger wächst, und kommen beim Verlassen gleich wieder zurück. Bisher lag das vergrößerte Dock bis zu zwei Sekunden lang über den Shelfs.</li>
+<li>Kostet im Ruhezustand nichts: DockShelf misst nur schneller, solange der Zeiger über dem Dock ist.</li>
+<li>Ein neuer Test stellt sicher, dass jede Einstellung einen Neustart und ein Update übersteht.</li>
+</ul>
+      ]]></description>
+      <enclosure url="https://github.com/maxxerzy/dockshelf-releases/releases/download/v1.1.14/DockShelf-1.1.14.dmg" sparkle:edSignature="rCyKe32o/uduBiBjjkIf5XgGidB+46daI2cPR04ls87R9cLKp2o36B3lcFX+Dp5pVdW/FYERHtb461sc/Tr0BA==" length="6052490" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>DockShelf 1.1.13</title>
       <pubDate>Fri, 30 Oct 2026 17:59:51 +0100</pubDate>
       <sparkle:version>31</sparkle:version>
