@@ -6,6 +6,21 @@
     <description>DockShelf updates</description>
     <language>en</language>
     <item>
+      <title>DockShelf 1.1.16</title>
+      <pubDate>Wed, 04 Nov 2026 21:17:26 +0100</pubDate>
+      <sparkle:version>34</sparkle:version>
+      <sparkle:shortVersionString>1.1.16</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[
+<h3>DockShelf 1.1.16</h3>
+<ul>
+<li>Hovern über den Shelfs braucht nur noch etwa halb so viel Rechenzeit. Ein Eintrag unter dem Zeiger hellt weiterhin weich auf, vergrößert sich aber nicht mehr.</li>
+<li>Scrollen ist dadurch nochmals etwas sparsamer geworden.</li>
+</ul>
+      ]]></description>
+      <enclosure url="https://github.com/maxxerzy/dockshelf-releases/releases/download/v1.1.16/DockShelf-1.1.16.dmg" sparkle:edSignature="571/s8eR0BVU3F646Hpw5eUaq+pWk0geIIC6fCycMlxatOjj+BpxB1jd0QlgL6LG4XQbnE1uoaF4fF+bjwX0Dw==" length="6065909" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>DockShelf 1.1.15</title>
       <pubDate>Tue, 03 Nov 2026 22:50:05 +0100</pubDate>
       <sparkle:version>33</sparkle:version>
