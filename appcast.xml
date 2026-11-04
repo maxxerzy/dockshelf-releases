@@ -6,6 +6,21 @@
     <description>DockShelf updates</description>
     <language>en</language>
     <item>
+      <title>DockShelf 1.1.17</title>
+      <pubDate>Wed, 04 Nov 2026 23:19:18 +0100</pubDate>
+      <sparkle:version>35</sparkle:version>
+      <sparkle:shortVersionString>1.1.17</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[
+<h3>DockShelf 1.1.17</h3>
+<ul>
+<li>Ein leeres Shelf braucht keine Rechenzeit mehr, während sein Hinweis („Nichts kürzlich kopiert“ und ähnliche) nach dem Erscheinen sanft pulsiert: bisher waren es jedes Mal gut 3 Sekunden CPU, vor allem beim Zwischenablage-Shelf nach jedem Start.</li>
+<li>Intern: Spotlight-Indizierung und Zwischenablage-Verlauf werden jetzt auf Rechenzeit gemessen, mit festen Grenzwerten.</li>
+</ul>
+      ]]></description>
+      <enclosure url="https://github.com/maxxerzy/dockshelf-releases/releases/download/v1.1.17/DockShelf-1.1.17.dmg" sparkle:edSignature="WwR2sfnvdWYYG7WdKUKxfeFBugi59EAYpWFGfCFNrgC/ct5WvTy3usfHBUUAJe+/KAFPY0ooM3u/Nr1SpjY8CQ==" length="6063506" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>DockShelf 1.1.16</title>
       <pubDate>Wed, 04 Nov 2026 21:17:26 +0100</pubDate>
       <sparkle:version>34</sparkle:version>
