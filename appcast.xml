@@ -6,6 +6,20 @@
     <description>DockShelf updates</description>
     <language>en</language>
     <item>
+      <title>DockShelf 1.1.18</title>
+      <pubDate>Sat, 07 Nov 2026 17:31:41 +0100</pubDate>
+      <sparkle:version>36</sparkle:version>
+      <sparkle:shortVersionString>1.1.18</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[
+<h3>DockShelf 1.1.18</h3>
+<ul>
+<li>Behoben: Ein Klick oder Tippen auf ein Shelf-Element ging manchmal ins Leere. Seit 1.1.16 reagierten nur Vorschaubild und Beschriftung, nicht der Rand und die Lücken daneben; bei einem flachen Bildschirmfoto fast gar nichts. Jetzt reagiert wieder das ganze Element, und ein Klick auf den Rand eines Elements im Datei-Shelf hebt nicht mehr die Auswahl auf.</li>
+</ul>
+      ]]></description>
+      <enclosure url="https://github.com/maxxerzy/dockshelf-releases/releases/download/v1.1.18/DockShelf-1.1.18.dmg" sparkle:edSignature="T4DGdTrZtVRTMK7NW0T0kjrWEeIBp+95KI+9axjAvpKiQVZT84NNiam91+zERkPu88bBY6ieVfxLhKaanU7tBA==" length="6073290" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>DockShelf 1.1.17</title>
       <pubDate>Wed, 04 Nov 2026 23:19:18 +0100</pubDate>
       <sparkle:version>35</sparkle:version>
