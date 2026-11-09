@@ -6,6 +6,25 @@
     <description>DockShelf updates</description>
     <language>en</language>
     <item>
+      <title>DockShelf 1.1.20</title>
+      <pubDate>Mon, 09 Nov 2026 19:54:44 +0100</pubDate>
+      <sparkle:version>38</sparkle:version>
+      <sparkle:shortVersionString>1.1.20</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[
+<h3>DockShelf 1.1.20</h3>
+<ul>
+<li>WebM, MKV, AVI und weitere Formate lassen sich jetzt ohne Zusatzinstallation konvertieren, alles auch in MP3.</li>
+<li>Neu unter Konvertieren: Hintergrund entfernen, Bild verkleinern, Metadaten entfernen, PDF in Seiten teilen, Video kürzen und Audio oder Video verschriftlichen, alles auf deinem Mac.</li>
+<li>Mehrere Dateien auf einmal: Mit ⌘-Klick auswählen, auch bei Downloads und Bildschirmfotos, dann gemeinsam konvertieren, komprimieren oder PDFs zusammenfügen.</li>
+<li>QR-Codes und Links in Bildern lesen: DockShelf zeigt den Inhalt und öffnet ihn erst, wenn du es willst.</li>
+<li>Einstellungen › Automatisch: neue Bildschirmfotos nach ihrem Inhalt benennen (braucht Apple Intelligence) und Regeln wie „jede neue .webm wird MP3“. Beides ist anfangs aus.</li>
+<li>Menüleiste › Downloads aufräumen: lange nicht benutzte Dateien auswählen und in den Papierkorb legen.</li>
+</ul>
+      ]]></description>
+      <enclosure url="https://github.com/maxxerzy/dockshelf-releases/releases/download/v1.1.20/DockShelf-1.1.20.dmg" sparkle:edSignature="LEWVgBoCKyty3JrxK6uU/jP1TPTgNb3SL5BW0EpSW/i6XxyZiFCKHlvwoZ4HCPJoK1z8DHEEjLKgoZT75ArbAw==" length="15830488" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>DockShelf 1.1.19</title>
       <pubDate>Mon, 09 Nov 2026 19:07:29 +0100</pubDate>
       <sparkle:version>37</sparkle:version>
