@@ -6,6 +6,21 @@
     <description>DockShelf updates</description>
     <language>en</language>
     <item>
+      <title>DockShelf 1.1.19</title>
+      <pubDate>Mon, 09 Nov 2026 19:07:29 +0100</pubDate>
+      <sparkle:version>37</sparkle:version>
+      <sparkle:shortVersionString>1.1.19</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[
+<h3>DockShelf 1.1.19</h3>
+<ul>
+<li>Mehr Formate beim Konvertieren: Bilder auch in AVIF, GIF und BMP, Audio auch in FLAC.</li>
+<li>Mit installiertem ffmpeg (zum Beispiel über Homebrew) außerdem: WebM, MKV, AVI, WMV, FLV und weitere Videos in MP4, MOV, M4A und MP3; WEBA, WMA, Opus, OGG und weitere Audioformate in MP3, M4A, WAV, FLAC und AIFF; jedes Video und jede Audiodatei in MP3.</li>
+</ul>
+      ]]></description>
+      <enclosure url="https://github.com/maxxerzy/dockshelf-releases/releases/download/v1.1.19/DockShelf-1.1.19.dmg" sparkle:edSignature="ZJJpjWHdeY1p5KsJQ3ick4iY8VJBeok5n3gEkQf21BVM0b8KIRDxrBUTKIgwKVtIPo1NstCr7vuYoTj7TfrnCg==" length="6105579" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>DockShelf 1.1.18</title>
       <pubDate>Sat, 07 Nov 2026 17:31:41 +0100</pubDate>
       <sparkle:version>36</sparkle:version>
