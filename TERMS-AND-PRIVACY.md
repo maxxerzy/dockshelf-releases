@@ -25,7 +25,7 @@ DockShelf ist kein Produkt von Apple Inc. und steht in keiner Verbindung zu Appl
 
 **2.5 Updates.** Updates werden nur aus der offiziellen Veröffentlichungsquelle geladen und vor der Installation anhand einer digitalen Signatur geprüft. Mit der Installation eines Updates gelten die dann beiliegenden Bedingungen.
 
-**2.6 Open-Source-Bestandteile.** DockShelf enthält das Update-Framework Sparkle (MIT-Lizenz). Den vollständigen Lizenztext findest du in der App unter Einstellungen › Datenschutz & Nutzungsbedingungen.
+**2.6 Open-Source-Bestandteile.** DockShelf enthält das Update-Framework Sparkle (MIT-Lizenz) und das Programm FFmpeg mit LAME (LGPL). Die vollständigen Lizenztexte und den Hinweis zu den Quellen findest du in der App unter Einstellungen › Datenschutz & Nutzungsbedingungen.
 
 **2.7 Schlussbestimmungen.** Es gilt deutsches Recht. Wenn du Verbraucher bist, bleibt der Schutz durch zwingende Vorschriften des Staates, in dem du deinen gewöhnlichen Aufenthalt hast, unberührt. Sollte eine Bestimmung unwirksam sein, bleiben die übrigen wirksam.
 
@@ -114,7 +114,7 @@ DockShelf is not a product of Apple Inc. and is not affiliated with Apple or wit
 
 **2.5 Updates.** Updates are loaded only from the official release source and are checked against a digital signature before they are installed. The terms included with an update apply once you install it.
 
-**2.6 Open-source components.** DockShelf includes the Sparkle update framework (MIT license). The full license text is in the app under Settings › Privacy & Terms.
+**2.6 Open-source components.** DockShelf includes the Sparkle update framework (MIT license) and the FFmpeg program with LAME (LGPL). The full license texts and the note on their sources are in the app under Settings › Privacy & Terms.
 
 **2.7 Final provisions.** German law applies. If you are a consumer, you keep the protection of the mandatory laws of the country where you habitually live. If any provision is invalid, the rest remain valid.
 
