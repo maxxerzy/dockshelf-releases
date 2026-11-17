@@ -6,6 +6,22 @@
     <description>DockShelf updates</description>
     <language>en</language>
     <item>
+      <title>DockShelf 1.1.23</title>
+      <pubDate>Tue, 17 Nov 2026 23:23:26 +0100</pubDate>
+      <sparkle:version>41</sparkle:version>
+      <sparkle:shortVersionString>1.1.23</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[
+<h3>DockShelf 1.1.23</h3>
+<ul>
+<li>Neu: Dateien direkt an andere DockShelf-Nutzer senden. Unter Einstellungen › Teilen einschalten und sich einmal mit einem Code koppeln, dann im Fächer oder Menü einer Datei „Senden an“ wählen – auch für mehrere Dateien und Ordner. Was ankommt, landet in Downloads.</li>
+<li>Die Dateien werden auf deinem Mac für den Empfänger verschlüsselt; der DockShelf-Server kann weder sie noch ihre Namen lesen und löscht sie, sobald sie abgeholt sind, spätestens nach 7 Tagen. Bis zu 4 GB pro Datei.</li>
+<li>Die Datenschutzhinweise beschreiben das Teilen in einem neuen Abschnitt 3.6.</li>
+</ul>
+      ]]></description>
+      <enclosure url="https://github.com/maxxerzy/dockshelf-releases/releases/download/v1.1.23/DockShelf-1.1.23.dmg" sparkle:edSignature="WysXMu/1o0gz0im9LW9NROJNS7DP9lVW7QO/Vpn3bMd7xjGzYWSGa9XyuCudtiA/Tcxcr2XW7xtmiCgpOTEWDQ==" length="16282254" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>DockShelf 1.1.22</title>
       <pubDate>Tue, 17 Nov 2026 01:21:18 +0100</pubDate>
       <sparkle:version>40</sparkle:version>
