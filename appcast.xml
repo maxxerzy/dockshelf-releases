@@ -6,6 +6,25 @@
     <description>DockShelf updates</description>
     <language>en</language>
     <item>
+      <title>DockShelf 1.1.24</title>
+      <pubDate>Wed, 18 Nov 2026 00:08:36 +0100</pubDate>
+      <sparkle:version>42</sparkle:version>
+      <sparkle:shortVersionString>1.1.24</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[
+<h3>DockShelf 1.1.24</h3>
+<ul>
+<li>Teilen kann jetzt große Dateien: bis 50 GB statt 4 GB, mit vier Stücken gleichzeitig. Der Empfänger lädt schon herunter, während du noch sendest.</li>
+<li>Teilen ist verlässlich: Bricht die Verbindung ab, geht der Mac in den Ruhezustand oder wird DockShelf beendet, geht die Übertragung später dort weiter, wo sie war. Ohne Internet Gesendetes wird nachgeschickt.</li>
+<li>Mitteilungen: „Anna hat dir … geschickt“ mit „Im Finder zeigen“, „Ben hat … erhalten“, und Fehler ohne Fenster, das alles anhält. Laufende Übertragungen stehen mit Fortschritt oben im Menüleisten-Popover und lassen sich dort stoppen.</li>
+<li>Koppeln per Link: „Link senden…“ schickt ihn per Nachricht, ein Klick darauf koppelt.</li>
+<li>An alle Gekoppelten auf einmal senden, Texte aus dem Zwischenablage-Verlauf senden, ⌃⌥⌘E schickt das neueste Bildschirmfoto oder den neuesten Download an die zuletzt Gewählten.</li>
+<li>Gekoppelte lassen sich umbenennen; ändert jemand seinen Namen, kommt das bei den anderen an. Der Abschnitt „Teilen“ steht jetzt direkt unter „Allgemein“.</li>
+</ul>
+      ]]></description>
+      <enclosure url="https://github.com/maxxerzy/dockshelf-releases/releases/download/v1.1.24/DockShelf-1.1.24.dmg" sparkle:edSignature="eVdGtDCjBPGvyfdM1c5FlSulfpsNVa55n5M3HH8nrjcusgJMOmPbVPyXuQUIi80oJ7SJnKl5w8UWI8im24XBCA==" length="16630463" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>DockShelf 1.1.23</title>
       <pubDate>Tue, 17 Nov 2026 23:23:26 +0100</pubDate>
       <sparkle:version>41</sparkle:version>
