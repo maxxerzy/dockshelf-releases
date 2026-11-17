@@ -6,6 +6,20 @@
     <description>DockShelf updates</description>
     <language>en</language>
     <item>
+      <title>DockShelf 1.1.21</title>
+      <pubDate>Tue, 17 Nov 2026 01:05:36 +0100</pubDate>
+      <sparkle:version>39</sparkle:version>
+      <sparkle:shortVersionString>1.1.21</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[
+<h3>DockShelf 1.1.21</h3>
+<ul>
+<li>Die Einstellungen öffnen sich jetzt als Popover direkt unter dem DockShelf-Symbol in der Menüleiste, in fester Breite und ohne seitliches Scrollen. Ein Klick in eine andere App schließt es.</li>
+</ul>
+      ]]></description>
+      <enclosure url="https://github.com/maxxerzy/dockshelf-releases/releases/download/v1.1.21/DockShelf-1.1.21.dmg" sparkle:edSignature="LVY/CnWg5aBky07fDAqwym4mCRvHMDAGPMogHLp9VDRC61qarXSrUK8BnRpPJ7Z8YwBaqWQeVMTQOalqNovMCw==" length="15840662" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>DockShelf 1.1.20</title>
       <pubDate>Mon, 09 Nov 2026 19:54:44 +0100</pubDate>
       <sparkle:version>38</sparkle:version>
