@@ -6,6 +6,21 @@
     <description>DockShelf updates</description>
     <language>en</language>
     <item>
+      <title>DockShelf 1.1.22</title>
+      <pubDate>Tue, 17 Nov 2026 01:21:18 +0100</pubDate>
+      <sparkle:version>40</sparkle:version>
+      <sparkle:shortVersionString>1.1.22</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[
+<h3>DockShelf 1.1.22</h3>
+<ul>
+<li>Menü und Einstellungen sind jetzt eins: Ein Klick auf das DockShelf-Symbol öffnet direkt das Popover, oben mit den bisherigen Menüeinträgen samt Tastenkürzeln, darunter Hilfe, Beenden und die Einstellungen. Ein zweiter Klick aufs Symbol, Esc oder ein Klick daneben schließt es.</li>
+<li>Behoben: In 1.1.21 schloss sich das Popover bei einem Klick in eine andere App nicht.</li>
+</ul>
+      ]]></description>
+      <enclosure url="https://github.com/maxxerzy/dockshelf-releases/releases/download/v1.1.22/DockShelf-1.1.22.dmg" sparkle:edSignature="FunQuzaAHMnl9qlJvX7gjVIVB4M8SG60vhoQlJb6SXh+7rTaKWqlqOCZu0rVk96wJPmToec5n84bpaJpxru3BA==" length="15917673" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>DockShelf 1.1.21</title>
       <pubDate>Tue, 17 Nov 2026 01:05:36 +0100</pubDate>
       <sparkle:version>39</sparkle:version>
